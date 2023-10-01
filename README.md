@@ -11,8 +11,10 @@ This project is a Java Swing UI application that implements a login form with a 
 <img src="" alt="sample login" width="400"/>
 
 ## Note
+- Install VLC media player on your PC [here](https://www.videolan.org/vlc/)
 - Create new folder as `video` in the project and copy video that you have into this folder
   - Example
     - video/video 1.mp4
     - video/video 2.mp4
     - video/video 3.mp4
+- Tutorial on youtube [here](https://youtu.be/Y3HvBou5kqQ)
