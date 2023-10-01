@@ -8,7 +8,7 @@ This project is a Java Swing UI application that implements a login form with a 
 - [MigLayout](https://github.com/mikaelgrev/miglayout) - MigLayout library for flexible layout management
 
 ## Screenshots
-<img src="" alt="sample login" width="400"/>
+<img src="https://github.com/DJ-Raven/login-video-background/assets/58245926/57396761-ff6f-4614-b4c6-b096c088077a" alt="sample login" width="400"/>
 
 ## Note
 - Install VLC media player on your PC [here](https://www.videolan.org/vlc/)
